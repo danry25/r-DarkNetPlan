@@ -26,9 +26,7 @@ Posts may be removed at the moderator's discretion. Removed posts will be in /r/
 
 **Upcoming Local Meshnet Meetups**
 
-* [5/8 - mini-Seattle Meshnet Meetup at Freegeek Seattle, 2pm](http://redd.it/1d29y9)
-
-* [5/10 - Seattle Meshnet Meetup at ALTSpace, 7pm](http://redd.it/)
+* [5/10 - Seattle Meshnet Meetup at ALTSpace, 7pm](http://redd.it/1ds082)
 
 *Please message the mods to have your meetup added here*
 
